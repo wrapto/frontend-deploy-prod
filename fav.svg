@@ -1,0 +1,13 @@
+<svg width="484" height="227" viewBox="0 0 484 227" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    path {
+      stroke: black;
+    }
+    @media (prefers-color-scheme: dark) {
+      path {
+        stroke: white;
+      }
+    }
+  </style>
+<path d="M4 223H484M4 223L424 123M4 223L384 63M4 223L304 3M4 223L204 3M4 223L104 23M4 223L44 43M4 223V63"  stroke-width="7"/>
+</svg>
