@@ -29,7 +29,7 @@ Once you send the bridge transaction, Wrapto will process it shortly. When compl
 
 1. Open **[https://wrapto.app](https://wrapto.app)** in your browser.
 2. Click **“Connect Wallet”** and connect a supported EVM wallet (e.g., MetaMask, Trust Wallet, or any EVM-compatible wallet).
-3. Make sure your wallet is on the correct chain (Base, BNB Chain, Kava, Polygon — whichever holds your WPAC).
+3. Make sure your wallet is on the correct chain (Base, BNB Chain, Polygon — whichever holds your WPAC).
 4. Enter the amount of WPAC you want to unwrap back to PAC.
 5. Enter your Pactus wallet address (starting with **pc1…**).
 6. Confirm the transaction in your EVM wallet.
