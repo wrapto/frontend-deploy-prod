@@ -18,7 +18,7 @@ Users must send PAC coins to the Deposit Wallet with the following memo:
 
 **<destination-address>**@**<chain-id>**
 
-**destination-address**  is the address on the target chain that will receive WPAC, and **chain-id** is identifies the target blockchain. such as `BASE`, `BSC` or `POLYGON`.
+**destination-address**  is the address on the target chain that will receive WPAC, and **chain-id** is identifies the target blockchain. such as `BASE`, `BSC`, `ETHEREUM`or `POLYGON`.
 
 This instructs Wrapto to mint WPAC on the target chain and send the tokens to that address.
 
