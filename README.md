@@ -1,6 +1,6 @@
-# Wrapto Frontend Deploy Repository
+# Wrapto Frontend Deploy Repository (Production)
 
-This repository contains production builds for [Wrapto Frontend](https://github.com/ezex-io/wrapto-frontend), automatically deployed from versioned releases.
+This repository contains production builds for Wrapto Frontend, automatically deployed from versioned releases.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ This repository contains production builds for [Wrapto Frontend](https://github.
 
 ## How It Works
 
-1. When a new tag (vX.Y.Z) is created in the [main repository](https://github.com/ezex-io/wrapto-frontend)
+1. When a new tag (vX.Y.Z) is created in the main repository
 2. GitHub Actions builds the production artifacts
 3. The built files are deployed to this repository's `gh-pages` branch
 
